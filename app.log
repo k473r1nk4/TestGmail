@@ -1,0 +1,42 @@
+root - WARNING - This is a warning message
+root - ERROR - This is an error message
+root - CRITICAL - This is a critical message
+2021-03-10 11:02:38,082 - This is an info message
+2021-03-10 11:02:38,083 - This is a warning message
+2021-03-10 11:02:38,083 - This is an error message
+2021-03-10 11:02:38,084 - This is a critical message
+2021-03-10 12:12:32,209 - This is an info message
+2021-03-10 12:12:32,210 - This is a warning message
+2021-03-10 12:12:32,210 - This is an error message
+2021-03-10 12:12:32,210 - This is a critical message
+2021-03-10 12:45:01,978 - (test.py).<module>(68) - Открытие браузера
+2021-03-10 12:45:18,349 - (test.py).<module>(87) - Повторная авторизация
+2021-03-10 12:45:50,655 - (test.py).<module>(121) - This is an info message
+2021-03-10 12:45:50,663 - (test.py).<module>(122) - This is a warning message
+2021-03-10 12:45:50,663 - (test.py).<module>(123) - This is an error message
+2021-03-10 12:45:50,663 - (test.py).<module>(124) - This is a critical message
+2021-03-10 12:48:35,853 - (test.py).<module>(68) - Открытие браузера
+2021-03-10 12:48:38,133 - (test.py).<module>(121) - This is an info message
+2021-03-10 12:48:38,133 - (test.py).<module>(122) - This is a warning message
+2021-03-10 12:48:38,133 - (test.py).<module>(123) - This is an error message
+2021-03-10 12:48:38,133 - (test.py).<module>(124) - This is a critical message
+2021-03-10 12:49:03,329 - (test.py).<module>(68) - Открытие браузера
+2021-03-10 12:49:05,364 - (test.py).<module>(121) - This is an info message
+2021-03-10 12:49:05,365 - (test.py).<module>(122) - This is a warning message
+2021-03-10 12:49:05,365 - (test.py).<module>(123) - This is an error message
+2021-03-10 12:49:05,365 - (test.py).<module>(124) - This is a critical message
+2021-03-10 12:51:03,514 - (test.py).<module>(68) - Открытие браузера
+2021-03-10 12:51:17,565 - (test.py).<module>(121) - This is an info message
+2021-03-10 12:51:17,565 - (test.py).<module>(122) - This is a warning message
+2021-03-10 12:51:17,565 - (test.py).<module>(123) - This is an error message
+2021-03-10 12:51:17,565 - (test.py).<module>(124) - This is a critical message
+2021-03-10 12:51:38,778 - (test.py).<module>(68) - Открытие браузера
+2021-03-10 12:51:40,813 - (test.py).<module>(122) - This is an info message
+2021-03-10 12:51:40,813 - (test.py).<module>(123) - This is a warning message
+2021-03-10 12:51:40,813 - (test.py).<module>(124) - This is an error message
+2021-03-10 12:51:40,813 - (test.py).<module>(125) - This is a critical message
+2021-03-10 12:53:51,522 - (test.py).<module>(69) - Открытие браузера
+2021-03-10 12:53:53,572 - (test.py).<module>(122) - This is an info message
+2021-03-10 12:53:53,572 - (test.py).<module>(123) - This is a warning message
+2021-03-10 12:53:53,572 - (test.py).<module>(124) - This is an error message
+2021-03-10 12:53:53,573 - (test.py).<module>(125) - This is a critical message
